@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ryanyz10
-- 👀 I’m interested in 
-- 🌱 I’m currently learning about microservices
+- 👀 I’m interested in k8s, Go, Rust
+- 🌱 I’m currently learning about k8s
 - 💞️ I’m looking to collaborate on anything that sounds interesting!
 - 📫 How to reach me: ryanyz10 on basically every social media platform
 
