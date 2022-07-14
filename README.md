@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @ryanyz10
-- 👀 I’m interested in k8s, Go, Rust
-- 🌱 I’m currently learning about k8s
-- 💞️ I’m looking to collaborate on anything that sounds interesting!
-- 📫 How to reach me: ryanyz10 on basically every social media platform
+- 👀 I’m interested in Go, Rust
+- 🌱 I’m currently learning about startup life
+- 💞️ I’m looking to collaborate on cool projects in Rust.
+- 📫 How to reach me: @ryanyz10 on Twitter, ryanyz10#5378 on Discord
 
 <!---
 ryanyz10/ryanyz10 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
